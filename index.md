@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index
+title: devgeeks.org
 tagline: All over the place
 ---
 {% include JB/setup %}
