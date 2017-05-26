@@ -27,7 +27,9 @@ author :
 #
 production_url : http://devgeeks.github.io
 
-gems: ["jekyll-sitemap"]
+gems : ["jekyll-sitemap"]
+
+timezone : Australia/Melbourne
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
