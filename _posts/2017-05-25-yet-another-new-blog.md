@@ -7,7 +7,7 @@ tags: [blog, jekyll]
 ---
 {% include JB/setup %}
 
-I have been unhappy with my infrastructure for a long time, but never quite unhappyi enough to change it.
+I have been unhappy with my infrastructure for a long time, but never quite unhappy enough to change it.
 
 Until now.
 
